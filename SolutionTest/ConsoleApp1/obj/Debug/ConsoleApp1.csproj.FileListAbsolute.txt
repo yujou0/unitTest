@@ -1,0 +1,10 @@
+D:\MasterKuo\SolutionTest\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\MasterKuo\SolutionTest\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\MasterKuo\SolutionTest\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\MasterKuo\SolutionTest\ConsoleApp1\bin\Debug\ClassLibraryTest.dll
+D:\MasterKuo\SolutionTest\ConsoleApp1\bin\Debug\ClassLibraryTest.pdb
+D:\MasterKuo\SolutionTest\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\MasterKuo\SolutionTest\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\MasterKuo\SolutionTest\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+D:\MasterKuo\SolutionTest\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\MasterKuo\SolutionTest\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

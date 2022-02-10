@@ -1,0 +1,6 @@
+D:\MasterKuo\SolutionTest\ClassLibraryTest\bin\Debug\ClassLibraryTest.dll
+D:\MasterKuo\SolutionTest\ClassLibraryTest\bin\Debug\ClassLibraryTest.pdb
+D:\MasterKuo\SolutionTest\ClassLibraryTest\obj\Debug\ClassLibraryTest.csproj.AssemblyReference.cache
+D:\MasterKuo\SolutionTest\ClassLibraryTest\obj\Debug\ClassLibraryTest.csproj.CoreCompileInputs.cache
+D:\MasterKuo\SolutionTest\ClassLibraryTest\obj\Debug\ClassLibraryTest.dll
+D:\MasterKuo\SolutionTest\ClassLibraryTest\obj\Debug\ClassLibraryTest.pdb
